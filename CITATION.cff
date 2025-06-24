@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use FIRE-G in your work, please cite it using the following metadata."
+title: "FIRE-G: A Four-Dimensional Unified Theory Without Dark Matter, Dark Energy, or Extra Dimensions"
+authors:
+  - family-names: Harper
+    given-names: Joey
+    orcid: https://orcid.org/0000-0000-0000-0000
+date-released: 2025-06-24
+version: "1.0"
+doi: "10.5281/zenodo.1234567"
+license: "CC-BY-4.0"
+url: "https://github.com/joeyharper52/FIRE-G"
