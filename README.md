@@ -40,13 +40,13 @@ The theory introduces an entropy-gradient term and a curvature correction derive
 | **Description**                 | **Preview** |
 |--------------------------------|-------------|
 | Bullet Cluster Lensing         | <img src="bullet_cluster_convergence.png" width="300"/> |
-| Entropy Curvature vs Pressure  | <img src="entropy_pressure_vs_curvature.pdf" width="300"/> |
+| Entropy Curvature vs Pressure  | <img src="entropy_pressure_vs_curvature.png" width="300"/> |
 | Abell 1689 Fit                 | <img src="abell1689_fireg_fit.png" width="300"/> |
 | Galactic Rotation Curves       | <img src="galactic_rotation_curves.png" width="300"/> |
 | Cosmic Acceleration            | <img src="cosmic_acceleration.png" width="300"/> |
 | Structure Formation            | <img src="structure_formation.png" width="300"/> |
 | Eta vs Curvature               | <img src="eta_vs_curvature.png" width="300"/> |
-| Density Growth Modification    | <img src="density_growth_modified_gravity.pdf" width="300"/> |
+| Density Growth Modification    | <img src="density_growth_modified_gravity.png" width="300"/> |
 
 ---
 cff-version: 1.2.0
