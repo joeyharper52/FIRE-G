@@ -1,13 +1,14 @@
-# FIRE-G 
+# 🔥 FIRE-G
 
-**FIRE-G** (Fundamental Information and Relativistic Entropy Gravity)
+**FIRE-G** (Fundamental Information and Relativistic Entropy Gravity)  
 **Author:** Joey Harper  
 **Date:** June 2025  
+
 ---
 
 ## 🧠 Abstract
 
-FIRE-G (Fundamental Information and Relativistic Entropy Gravity) is a unified theoretical framework built entirely within four-dimensional curved spacetime. It explains gravitational phenomena through thermodynamic and geometric modifications to General Relativity—**eliminating the need for dark matter, dark energy, or extra dimensions.**
+FIRE-G is a unified theoretical framework built entirely within four-dimensional curved spacetime. It explains gravitational phenomena through thermodynamic and geometric modifications to General Relativity—**eliminating the need for dark matter, dark energy, or extra dimensions.**
 
 The theory introduces an entropy-gradient term and a curvature correction derived from holographic and thermodynamic principles, validated against:
 
@@ -15,13 +16,13 @@ The theory introduces an entropy-gradient term and a curvature correction derive
 - 🌌 Cosmic acceleration  
 - 🔭 Gravitational lensing (including the Bullet Cluster)  
 - 🧪 Sub-millimeter lab tests  
-- 📈 Large-scale structure growth
+- 📈 Large-scale structure growth  
 
 ---
 
 ## 📄 PDF Preprint
 
-> 🔗 [Download FIRE-G Paper (PDF)](./FIRE_G.pdf)
+📥 [Download FIRE-G Paper (PDF)](FIRE_G.pdf)
 
 ---
 
@@ -34,13 +35,13 @@ The theory introduces an entropy-gradient term and a curvature correction derive
 
 ---
 
-## 🔬 Figures
+## 🖼️ Figures
 
-| Description | Preview |
-|------------|---------|
-| Bullet Cluster Lensing | ![](./figures/bullet_cluster_convergence.png) |
-| Entropy Curvature vs Pressure | ![](./figures/entropy_pressure_vs_curvature.pdf) |
-| Abell 1689 Fit | ![](./figures/abell1689_fireg_fit.png) |
+| Description                    | Preview |
+|--------------------------------|---------|
+| Bullet Cluster Lensing         | ![Bullet](figures/bullet_cluster_convergence.png) |
+| Entropy Curvature vs Pressure  | ![Entropy](figures/entropy_pressure_vs_curvature.png) |
+| Abell 1689 Fit                 | ![Abell](figures/abell1689_fireg_fit.png) |
 
 ---
 
