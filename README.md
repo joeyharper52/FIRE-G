@@ -46,7 +46,7 @@ The theory introduces an entropy-gradient term and a curvature correction derive
 | Cosmic Acceleration            | <img src="cosmic_acceleration.png" width="300"/> |
 | Structure Formation            | <img src="structure_formation.png" width="300"/> |
 | Eta vs Curvature               | <img src="eta_vs_curvature.png" width="300"/> |
-| Density Growth Modification    | <img src="density_growth_modified_gravity.png" width="300"/> |
+| Density Growth Modification    | <img src="density_growth_modified_gravity.pdf" width="300"/> |
 
 ---
 cff-version: 1.2.0
