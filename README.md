@@ -1,5 +1,5 @@
 # 🔥 FIRE-G
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734166.svg)](https://doi.org/10.5281/zenodo.15734166)
 **FIRE-G** (Fundamental Information and Relativistic Entropy Gravity)  
 **Author:** Joey Harper  
 **Date:** June 2025
